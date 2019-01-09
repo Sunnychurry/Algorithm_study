@@ -1,7 +1,6 @@
-﻿#include "pch.h"
-#include <iostream>
+﻿#include <stdio.h>
 
 int main()
 {
-    std::cout << "Hi!!!!!\n"; 
+	return 0;
 }
