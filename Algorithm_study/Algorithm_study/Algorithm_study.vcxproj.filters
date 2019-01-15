@@ -35,5 +35,14 @@
     <ClCompile Include="RETIRE.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="QUADTREE.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ULTARI.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ULTARI(bruteforce).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
