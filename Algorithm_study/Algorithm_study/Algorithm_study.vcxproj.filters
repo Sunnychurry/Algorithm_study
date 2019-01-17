@@ -44,5 +44,14 @@
     <ClCompile Include="ULTARI(bruteforce).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="FANMEETING(Brute-force).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="FANMEETING(Bit).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Z.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
